@@ -14,7 +14,12 @@ Travel planner is a simple c language programme that allows you to decide your h
 
 ## Installation
 - Clone the repository or download the ZIP file.
-
+- Now use the following commands to run the programme -
+  ```bash
+     cd Travel-Planner
+     gcc Travel.c -o Planner
+     ./Planner.exe || ./Planner.out (Depending on your operating system)
+  ```
 
 ## Usage
 1. Enter the zone of India you want to travel.
