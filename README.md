@@ -2,7 +2,7 @@
 ![](https://tse2.mm.bing.net/th?id=OIP.d5N-XxqcvmLN-ftjsfGCMQHaHa&pid=Api&P=0&h=180
 )
 
-Travel planner is a simple c language programme that allows you to decide your holiday destination as well as tells you the places to visit and popular local food to enjoy.
+Travel planner is a simple C language programme that allows you to decide your holiday destination as well as tells you the places to visit and popular local food to enjoy.
 
 ## Features
 - Plan your holidays.
